@@ -19,7 +19,7 @@ body {
 
 .view-container h1{
   margin-top: 0;
-} 
+}
 
 .outline {
   border: 1px solid black;
@@ -42,5 +42,9 @@ body {
 }
 
 .navLink {
+  text-decoration: none;
+}
+
+#Cart__navLink {
   text-decoration: none;
 }
